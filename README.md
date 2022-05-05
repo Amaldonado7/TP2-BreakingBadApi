@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# TP2 Apps Mobile | Breaking Bad API
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
