@@ -1,5 +1,3 @@
-import React from 'react';
-
 const CharacterItem = ({ item }) => {
   return (
     <div className='card'>
