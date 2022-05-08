@@ -11,7 +11,7 @@ npm install
 
 ```
 # Run app
-npm start
+npm run dev
 ```
 
 ```
